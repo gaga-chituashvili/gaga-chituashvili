@@ -61,12 +61,19 @@ Multi-tenant platform for students & academies:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaga-chituashvili&show_icons=true&hide_title=true" alt="GitHub stats" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaga-chituashvili&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gaga-chituashvili" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaga-chituashvili&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaga-chituashvili&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaga-chituashvili&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaga-chituashvili&theme=github_dark" />
+</p>
+
 
 
 ---
