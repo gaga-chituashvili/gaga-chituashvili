@@ -20,7 +20,7 @@
 
 **Backend**
 - Python • Django • Django REST Framework • PostgreSQL  
-- JWT Auth • Celery • Redis (optional if used)
+- JWT Auth • Celery • Redis
 
 **Frontend**
 - JavaScript / TypeScript  
