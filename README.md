@@ -31,7 +31,7 @@
 - OpenAI API • Groq API
 
 **Tools & DevOps**
-- Git & GitHub • Docker (if you use)  
+- Git & GitHub • Docker 
 - Render, Netlify, Vercel  
 - Postman, Swagger, VS Code / PyCharm
 
