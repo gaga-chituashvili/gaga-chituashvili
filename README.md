@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gaga 👋</h1>
 
 <p align="center">
-  Full-stack Developer / JavaScript  / TypeScript / React / Python / Django /  AI & ML
+  Full-stack Developer / Html & Css / JavaScript  / TypeScript / React / Python / Django /  AI & ML
 </p>
 
 ---
