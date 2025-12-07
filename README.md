@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Giga 👋</h1>
+<h1 align="center">Hi, I'm Gaga 👋</h1>
 
 <p align="center">
   Full-stack Developer / JavaScript  / TypeScript / Python / Django / React /  AI & ML
