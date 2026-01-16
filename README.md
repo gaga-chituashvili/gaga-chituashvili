@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gaga 👋</h1>
 
 <p align="center">
-  Full-stack Developer / Html & Css / JavaScript  / TypeScript / React / Python / Django /  AI & ML
+  Full-stack Developer / Html & Css / JavaScript  / TypeScript / React / Node / Express / Python / Django /  AI & ML
 </p>
 
 ---
@@ -19,7 +19,9 @@
 ### 🛠 Tech Stack
 
 **Backend**
-- Python • Django • Django REST Framework • PostgreSQL  
+- Node.js • Express.js
+- Python • Django • Django REST Framework
+- PostgreSQL
 - JWT Auth • Celery • Redis
 
 **Frontend**
@@ -41,18 +43,21 @@
 
 #### 🎓 Kan-Guroo – Mentorship & Education Platform
 - React + TypeScript + Tailwind frontend
+- Node.js + Express backend (REST API)
 - Modern UI/UX with carousels, reviews, responsive layouts
 - Real projects experience in team collaboration
 
 #### 🧠 Breneo – AI-powered EdTech Platform
 Multi-tenant platform for students & academies:
 - Django + DRF backend, React + Vite frontend
+- Additional services built with Node.js & Express
 - JWT auth, role-based dashboards
 - AI-powered dynamic assessments & job/course recommendations
 - Media uploads with Cloudinary
 
 ### Upwork – Frontend Developer Experience
 - Built responsive UI with React, TypeScript, Tailwind CSS
+- Additional services built with Node.js & Express
 - Developed reusable components, animations, and optimized layouts
 - Collaborated with international clients delivering production-ready features
 - Improved performance, UX, and overall code quality on multiple business projects
