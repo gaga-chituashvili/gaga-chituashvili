@@ -41,6 +41,13 @@
 
 ### 🔥 Featured Projects
 
+💼 Ready – Accessibility Platform
+Developed a Python-based backend for text-to-speech conversion
+Built functionality allowing users to write or upload text and listen to it as audio
+Designed the platform to improve accessibility for people with dyslexia
+Contributed as a Full-Stack Developer, working across backend services and frontend integration
+Focused on simplicity, usability, and inclusive user experience
+
 #### 🎓 Kan-Guroo – Mentorship & Education Platform
 - React + TypeScript + Tailwind frontend
 - Node.js + Express backend (REST API)
