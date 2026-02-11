@@ -41,7 +41,7 @@
 
 ### 🔥 Featured Projects
 
-#### 💼 Ready – Accessibility Platform
+#### 💼 Readya – Accessibility Platform
 - Developed a Python-based backend for text-to-speech conversion
 - Built functionality allowing users to write or upload text and listen to it as audio
 - Designed the platform to improve accessibility for people with dyslexia
