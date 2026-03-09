@@ -70,6 +70,7 @@ Multi-tenant platform for students & academies:
 - Improved performance, UX, and overall code quality on multiple business projects
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,17 +78,14 @@ Multi-tenant platform for students & academies:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaga-chituashvili&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaga-chituashvili&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaga-chituashvili&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaga-chituashvili&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaga-chituashvili&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaga-chituashvili&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaga-chituashvili&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaga-chituashvili&theme=github_dark" />
 </p>
-
-
-
 ---
 
 ### 📫 Contact
