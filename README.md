@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Gaga 👋</h1>
 
 <p align="center">
-  <strong>Full-stack Developer</strong>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;Building+real-world+apps+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
+
 
 <p align="center">
   <!-- Frontend -->
@@ -78,7 +79,11 @@
  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Cartesia_AI-000000?style=flat-square&logo=audiomack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Google_TTS-4285F4?style=flat-square&logo=google&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white"/>
 </p>
+
 
 <p align="center"><strong>Tools & DevOps</strong></p>
 <p align="center">
